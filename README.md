@@ -1,27 +1,31 @@
-## 👋 Hello! I'm Simon.
+## 👋 Hi, I'm Simon
 
-Welcome to my LinkedIn profile! I'm a passionate Information Systems Engineering student at **UTN FRBA** in Argentina, currently on an exciting journey to expand my knowledge in software development, system architecture, and more.
+Software Engineer focused on backend development, distributed systems and production reliability.
+
+Currently working as **Software Developer II at Despegar**, contributing to high-scale travel technology platforms that handle large production workloads. My work involves performance analysis, observability strategies and designing scalable backend solutions for complex real-world systems.
+
+In parallel, I am **co-founder of an AI startup**, where I help lead the development of autonomous agent infrastructures for business process automation, combining product vision with hands-on engineering execution.
 
 ### 🎓 Education
-I'm pursuing my degree in **Information Systems Engineering** at **Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN FRBA)**. My studies focus on a range of topics, including software engineering, distributed systems, and data management, which equip me with the skills needed to tackle real-world challenges in the tech industry.
+Graduated in **Information Systems Engineering** from **Universidad Tecnológica Nacional (UTN FRBA)**, with strong academic focus on software engineering, distributed architectures and data-intensive systems.
 
-### 💼 Professional Experience
-Currently, I'm working at **Despegar**, a leading online travel company in Latin America. Here, I'm part of a dynamic team where I get to apply my technical skills to solve complex problems, optimize processes, and contribute to innovative projects that enhance the travel experience for millions of users.
+### ⚙️ Technical Focus
+- Backend architecture and microservices design  
+- Distributed systems and scalability challenges  
+- Observability, performance optimization and production incident analysis  
+- AI agent systems, RAG pipelines and emerging intelligent automation architectures  
 
-### 🌱 What I'm Learning
-I'm always eager to learn and grow! Right now, I'm focused on:
-- Advanced Java programming
-- Optimistic replication techniques and conflict resolution in distributed systems
-- Hexagonal architecture and software design patterns
-- TDD and DDD
+### 🛠 Tech Stack
+**Languages:** Java, Python  
+**Databases & Storage:** Cassandra, MariaDB, MongoDB, Redis, ScyllaDB, Elasticsearch  
+**Cloud & Tools:** AWS, Git, Grafana, New Relic  
+**Engineering Areas:** Distributed Systems, Backend Architecture, Reliability Engineering  
 
-### 🚀 Skills
-- **Programming Languages**: Java, Python, SQL
-- **Technologies**: Spring Boot, DynamoDB, Git, Redis, MongoDB, RDBMS
-- **Areas of Expertise**: Software Development, System Architecture, Distributed Systems, Object-Oriented Programming, Functional Programming
+### 🚀 Current Interests
+I am particularly interested in complex system design, high-impact engineering problems and the evolution of intelligent autonomous systems.
 
-### 🌐 Let's Connect!
-I'm always open to connecting with like-minded professionals, sharing ideas, and exploring new opportunities. Feel free to reach out if you'd like to chat about technology, software development, or any interesting project!
+### 🌐 Connect with me
+Feel free to connect if you are interested in backend engineering, distributed systems, AI infrastructure or building technology products with real-world impact.
 
 <a href="https://www.linkedin.com/in/simonmirleni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/SimonMirleni" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
